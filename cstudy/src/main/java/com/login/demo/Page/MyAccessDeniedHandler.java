@@ -20,7 +20,7 @@ public class MyAccessDeniedHandler implements AccessDeniedHandler {
     private static Logger logger = LoggerFactory.getLogger(MyAccessDeniedHandler.class);
     /***
      * exception handler(403페이지), 로그 설
-     * @author jy Hwang
+     * @author jy Hwang/
      * @param httpServletRequest, httpServletResponse, e
      */
     @Override
